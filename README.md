@@ -1,4 +1,4 @@
-# PlayFabLoginSample
+# PlayFab Login Sample
  
 ## Description
 
@@ -13,7 +13,7 @@ https://playfab-master.com/playfab-how-to-start
 
 1. Run it in Unity. Then the user will be created automatically.
 
-## GameManagerSettings
+## Game Manager Settings
 
 1. Under the **Contents > TitleData** section of the Game Manager add the value with the key below.
 
@@ -35,14 +35,14 @@ https://playfab-master.com/playfab-how-to-start
 
 1. If the settings are output to the log, you are successful!!
 
-## StepUp
+## Step Up
 
 You can set various bool properties from the Inspector of the object to which the PlayFabContoller is attached.  
 Try changing these to get various values.
 
 ---
 
-## AuthorInfo
+## Author Info
 
 Blog: https://playfab-master.com/ (Japanese)  
 Twitter: https://twitter.com/nekojoker1234 (Japanese)
